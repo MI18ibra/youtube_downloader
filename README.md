@@ -43,11 +43,3 @@
 <h2>Author</h2>
 
 <p>(Mohamed Ibrahim)</p>
-
-<h2>Contributing</h2>
-
-<p>Feel free to submit pull requests for bug fixes, improvements, or new features.</p>
-
-<h2>License</h2>
-
-<p>(Specify the license you want to use here, e.g., MIT, Apache, etc.)</p>
