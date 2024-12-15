@@ -42,7 +42,7 @@
 
 <h2>Author</h2>
 
-<p>(Please add your name here)</p>
+<p>(Mohamed Ibrahim)</p>
 
 <h2>Contributing</h2>
 
